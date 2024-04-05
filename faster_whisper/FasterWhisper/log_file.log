@@ -1,0 +1,6 @@
+[2024-04-05 15:31:53.848] [ctranslate2] [thread 1980460] [warning] The compute type inferred from the saved model is float16, but the target device or backend do not support efficient float16 computation. The model weights have been automatically converted to use the float32 compute type instead.
+Detected language 'en' with probability 1
+[1.26s -> 4.26s]  Hello, this is a test video.
+[2024-04-05 15:34:09.078] [ctranslate2] [thread 1982616] [warning] The compute type inferred from the saved model is float16, but the target device or backend do not support efficient float16 computation. The model weights have been automatically converted to use the float32 compute type instead.
+Detected language 'en' with probability 1
+[0.56s -> 4.56s]  I want to test again. This is another test video.
